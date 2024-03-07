@@ -1,0 +1,22 @@
+shop_id,book_id,book_name,units,price_per_unit
+S00001,A00001,The Great Gatsby,12,10
+S00001,A00002,Ulyses,28,5
+S00001,A00003,La importancia de llamarse Ernesto,40,7
+S00001,A00004,Jane Eyre,20,28
+S00001,A00005,El viejo y el mar,20,15
+S00001,A00006,Fiesta,10,12
+S00001,A00007,Cae la noche tropical,20,5
+S00002,A00001,The Great Gatsby,10,7
+S00002,A00002,Ulyses,5,28
+S00002,A00003,La importancia de llamarse Ernesto,5,15
+S00002,A00004,Jane Eyre,10,12
+S00002,A00005,El viejo y el mar,15,5
+S00002,A00006,Fiesta,0,10
+S00002,A00007,Cae la noche tropical,5,5
+S00003,A00001,The Great Gatsby,20,12
+S00003,A00002,Ulyses,10,21
+S00003,A00003,La importancia de llamarse Ernesto,20,13
+S00003,A00004,Jane Eyre,10,10
+S00003,A00005,El viejo y el mar,15,12
+S00003,A00006,Fiesta,5,10
+S00003,A00007,Cae la noche tropical,20,20
